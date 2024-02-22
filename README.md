@@ -1,0 +1,1 @@
+# React + TypeScript + Vite + shadcn/ui with dark mode + React Router
