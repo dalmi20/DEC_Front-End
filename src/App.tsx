@@ -1,9 +1,9 @@
-import { ModeToggle } from "./components/mode-toggle"
+import Home from "@/pages/Home/home"
 
 function App() {
   return (
 
-      <ModeToggle />
+      <Home/>
 
   )
 }
